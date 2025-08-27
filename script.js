@@ -59,7 +59,7 @@ submitBtn.addEventListener(
             pinInput.value ===
             correctPin
         ) {
-            alert("");
+            alert("https://jevil-jestet.github.io/WHY-ARE-YOU-HERE/");
         } else {
             alert("GO AWAY");
         }
@@ -83,4 +83,5 @@ closeBtn.addEventListener(
     () => {
         modal.style.display = "none";
     }
+
 );
